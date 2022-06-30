@@ -1,0 +1,10 @@
+- Explicación del proyecto
+- Que aprenderemos?
+- fetch dentro de useEffect
+- fetch on render
+- problema de cascada
+- centralización de peticiones
+- usar async/await dentro del useEffect
+- useEffect no es asincrono
+- react query
+- 
